@@ -1,0 +1,5 @@
+# Keep Windows script files CRLF on checkout and in GitHub zip downloads
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.md text eol=lf
+*.py text eol=lf
